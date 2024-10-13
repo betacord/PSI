@@ -19,7 +19,7 @@ Temat projektu zaliczeniowego wraz z wymaganiami funkcjonalnymi zostanie ustalon
 
 Wymagania funkcjonalne wraz z punktacją przydzieloną za spełnienie każdego z nich będą ustalane indywidualnie z każdym uczestnikiem zajęć.
 
-### Cząstkowe funkcjinalności i terminy
+### Cząstkowe funkcjonalności i terminy
 Podczas trwania zajęć sprawdzany będzie postęp prac. Przykładowo, w terminie X należy mieć zaimplementowane wymagania funkcjonalne 1 i 2, a w terminie Y dodatkowo wymagania 3 i 4. W celu zaliczenia projektu należy mieć zaimplementowane wskazane funkcjonalnośc w wyznaczonych terminach, które zostaną podane w trakcie trwania zajęć.
 
 ## Samodzielność pracy
