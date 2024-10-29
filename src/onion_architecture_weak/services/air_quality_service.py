@@ -1,12 +1,12 @@
-from repositories.air_quality_repository import AirQualityRepository
+from repositories.air_quality_repository import IAirQualityRepository
 from services.iair_quality_service import IAirQualityService
 from utils.utils import PM10IndexEnum
 
 
 class AirQualityService(IAirQualityService):
-    repository: AirQualityRepository
+    repository: IAirQualityRepository
 
-    def __init__(self, repository: AirQualityRepository) -> None:
+    def __init__(self, repository: IAirQualityRepository) -> None:
         self.repository = repository
 
     async def get_air_quality_index(self, sensor_id: int) -> str:
