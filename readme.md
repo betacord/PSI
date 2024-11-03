@@ -24,3 +24,9 @@ Podczas trwania zajęć sprawdzany będzie postęp prac. Przykładowo, w termini
 
 ## Samodzielność pracy
 Wszystkie projekty zaliczeniowe będą poddawane sprawdzeniu systemem antyplagiatowym oraz systemem wykrywającym udział rozwiązań automatycznych w powstawaniu rozwiązania. W przypadku stwierdzenia niesamodzielności, student uzyskuje ocenę niedostateczną bez możliwości poprawy. Niewykluczone są również dalsze konsekwencje dyscyplinarne.
+
+## Materiały do wykładów i laboratoriów
+1. [Programowanie asynchroniczne](https://github.com/betacord/PSI/blob/main/lectures/1_concurrency.ipynb)
+2. [Aplikacje internetowe i REST API](https://github.com/betacord/PSI/blob/main/lectures/2_rest_api.ipynb)
+3. [Architektura wielowarstwowa](https://github.com/betacord/PSI/blob/main/lectures/3_onion_architecture.ipynb)
+4. [Wstęp do projektu REST API przy użyciu FastAPI](https://github.com/betacord/airport-meteo-api/tree/11a539f48f507d0af7bb29fd3e6afa5f7879765c)
