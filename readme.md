@@ -32,3 +32,4 @@ Wszystkie projekty zaliczeniowe będą poddawane sprawdzeniu systemem antyplagia
 4. [[Projekt]: Wstęp do projektu REST API przy użyciu FastAPI](https://github.com/betacord/airport-meteo-api/tree/11a539f48f507d0af7bb29fd3e6afa5f7879765c)
 5. [Docker i konteneryzacja aplikacji sieciowych](https://keen-ghost-ded.notion.site/Konteneryzacja-13fe6bfe93a9808db924d3bfaabded30?pvs=4)
 6. [[Projekt]: Docker, obsługa bazy danych i konfiguracja aplikacji](https://github.com/betacord/airport-meteo-api/tree/2e3b124175fbe169dd4d3ca494863f031d1ca1cf)
+7. [[Projekt]: Raporty metar i obsługa uytkowników](https://github.com/betacord/airport-meteo-api/tree/2ed7620734655602b9e19a8207d665298097737b)
